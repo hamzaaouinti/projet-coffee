@@ -19,7 +19,7 @@ nav {
 header { 
     background-color: brown;
     padding-left: 20px;
-    background-image: url(bois.jpg); 
+    background-image: url(images/bois.jpg); 
  } 
  
  h1{
@@ -52,7 +52,7 @@ a:hover {
     background-color: #1F1209 ;
 }
 .img { 
- background-image: url(cafe1.jpg);
+ background-image: url(images/cafe1.jpg);
  background-size: cover;
  width: 100% ; 
  height: 600px ;
@@ -121,7 +121,7 @@ h3{
 }
 
 .barista {
-    background-image: url(cafe3.jpg);
+    background-image: url(images/cafe3.jpg);
     background-size: cover;
     height: 300px;
 }
@@ -140,6 +140,6 @@ h3{
 }
 
 footer{
-    background-image: url(bois.jpg);
+    background-image: url(images/bois.jpg);
     height: 40px;
 }
