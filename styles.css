@@ -2,6 +2,7 @@
     margin : 0;
     padding : 0;
     box-sizing : border-box;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
 h1,h2,h3{
@@ -86,6 +87,12 @@ button {
     margin-top: 20px;
     border: none;
 }
+
+button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
 button:hover {
     background-color: chocolate;
 }
@@ -101,7 +108,7 @@ button:hover {
     height: 40px;
     margin-left: 350px;
     margin-top: 40px;
-    margin-bottom: ;
+    
 }
 h3{ 
     margin-left: 260px;
