@@ -44,29 +44,11 @@ a:hover {
     background-color: #1F1209 ;
 }
 
-
-#fildset-name{
-   border : none ;
-   margin-left: 500px;
-   margin-top: 150px;
-}
-
-legend {
-    font-size: medium;
-}
-
-#fildset-email{
-    border : none ;
-    margin-left: 500px;
-    margin-top: 25px;
-
-}
-
-#Question-area {
-    border : none ;
-    margin-left: 500px;
-    margin-top: 25px;
-
+img {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 250px;
+    background-size: cover;
 }
 
 .img { 
@@ -75,19 +57,16 @@ legend {
     width: 100% ; 
     height: 600px ;
    }
-
+  
    footer{
     background-image: url(images/bois.jpg);
     height: 40px;
    
 }
-footer p {
+
+   footer p {
     color: aliceblue;
     float: right;
     margin-right: 15px;
     margin-top: 10px;
-}
-
-textarea {
-    margin-bottom: 108px;
 }

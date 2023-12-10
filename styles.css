@@ -90,11 +90,18 @@ button {
 
 button:active {
     background-color: #3e8e41;
-    box-shadow: 0 5px #666;
+    
     transform: translateY(4px);
 }
 button:hover {
     background-color: chocolate;
+}
+
+button a {
+    text-decoration: none;
+    padding : 10px ; 
+    float: left ; 
+    color: black;
 }
 
 .section-white {
