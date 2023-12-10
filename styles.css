@@ -142,4 +142,11 @@ h3{
 footer{
     background-image: url(images/bois.jpg);
     height: 40px;
+   
+}
+footer p {
+    color: aliceblue;
+    float: right;
+    margin-right: 15px;
+    margin-top: 10px;
 }

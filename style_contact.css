@@ -1,0 +1,75 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing : border-box;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+}
+
+nav {
+    display: flex ;
+    height: 50px;
+    justify-content: space-between;
+}
+
+header { 
+    background-color: brown;
+    padding-left: 20px;
+    background-image: url(images/bois.jpg); 
+ } 
+ 
+ 
+ul {
+    padding-top: 8px;
+    list-style: none;
+    text-align: end;
+    padding-right: 40px;
+    
+    
+}
+
+li { 
+    float: left;
+    margin-left: 20px ;
+}
+
+a{
+    text-decoration: none;
+    padding : 10px ; 
+    float: left ; 
+    color: aliceblue;
+       
+}
+a:hover { 
+    background-color: #1F1209 ;
+}
+
+
+#fildset-name{
+   border : none ;
+   margin-left: 500px;
+   margin-top: 150px;
+}
+
+legend {
+    font-size: medium;
+}
+
+#fildset-email{
+    border : none ;
+    margin-left: 500px;
+    margin-top: 25px;
+
+}
+
+#Question-area {
+    border : none ;
+    margin-left: 500px;
+    margin-top: 25px;
+
+}
+
+div {
+    background-color: aliceblue;
+}
+
